@@ -1,5 +1,7 @@
+#vasanth
 import pygame
-from pygame import *
+from pygame 
+import *
 import random
 
 pygame.init()
@@ -189,4 +191,4 @@ def text_objects(text, font, color):
     textSurface = font.render(text, True, color)
     return textSurface, textSurface.get_rect()   
 
-play()
+/bin/bash: q: command not found
